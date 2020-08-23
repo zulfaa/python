@@ -1,0 +1,1 @@
+1. Write a Python code to check whether two strings are equal or not.
